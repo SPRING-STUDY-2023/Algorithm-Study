@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e59c085-97be-4235-b9ac-0e60a8914dd9" name="Changes" comment="230916">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week1/Silver4_스위치켜고끄기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/Silver4_스위치켜고끄기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +37,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/han-yujin/Library/Mobile Documents/com~apple~CloudDocs/SOPT/Algorithm-Study/yujin",
     "node.js.detected.package.eslint": "true",
@@ -63,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694848463244</updated>
-      <workItem from="1694848464289" duration="3664000" />
+      <workItem from="1694848464289" duration="2825000" />
     </task>
     <task id="LOCAL-00001" summary="230916">
       <option name="closed" value="true" />
