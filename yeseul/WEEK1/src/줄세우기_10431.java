@@ -22,7 +22,7 @@ public class 줄세우기_10431 {
             for(int i = 0; i < arr.length; i++) {
                 for(int j = 0; j < i; j++) {
                     if(arr[j] > arr[i]) {
-                        cnt++;햐
+                        cnt++;
                     }
                 }
             }
