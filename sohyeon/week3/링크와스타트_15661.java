@@ -1,7 +1,10 @@
-import java.util.*;
-import java.io.*;
+package week3;
 
-public class Main {
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class 링크와스타트_15661 {
 
 	/**
 	 * 놓쳤던 점 : 전체적인 아이디어가 부족!

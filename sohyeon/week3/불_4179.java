@@ -1,7 +1,12 @@
-import java.util.*;
-import java.io.*;
+package week3;
 
-public class Main {
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.StringTokenizer;
+
+public class 불_4179 {
 
 	/**
 	 * 놓쳤던 점

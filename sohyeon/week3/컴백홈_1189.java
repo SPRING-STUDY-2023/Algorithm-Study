@@ -1,7 +1,10 @@
-import java.util.*;
-import java.io.*;
+package week3;
 
-public class Main {
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class 컴백홈_1189 {
 
 	static int[] dx = {1, -1, 0, 0};
 	static int[] dy = {0, 0, 1, -1};
