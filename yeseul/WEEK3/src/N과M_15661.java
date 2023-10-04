@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main {
+public class N과M_15661 {
     static int list[];
     static int listvalue[];
     static boolean visit[];

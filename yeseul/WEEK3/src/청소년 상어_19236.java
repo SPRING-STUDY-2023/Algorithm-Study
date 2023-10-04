@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class 청소년 상어_19236 {
     static int ans = 0;
     static int[] dy = {-1, -1, 0, 1, 1, 1, 0, -1};
     static int[] dx = {0, -1, -1, -1, 0, 1, 1, 1};

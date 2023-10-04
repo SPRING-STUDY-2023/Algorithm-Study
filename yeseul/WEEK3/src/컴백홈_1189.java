@@ -1,7 +1,7 @@
 mport java.io.*;
 import java.util.*;
 
-public class Main {
+public class 컴백홈_1189 {
     static int ans,r,c,k;
     static boolean[][] map;
     static int [] dx= {1,-1,0,0};
