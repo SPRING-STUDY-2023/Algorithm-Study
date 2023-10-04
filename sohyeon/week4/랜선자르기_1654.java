@@ -1,7 +1,10 @@
-import java.util.*;
-import java.io.*;
+package week4;
 
-public class Main {
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class 랜선자르기_1654 {
 
 	/**
 	 * 놓쳤던 점
