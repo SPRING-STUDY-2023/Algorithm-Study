@@ -33,6 +33,7 @@ public class Silver2_나무자르기 {
                     sum += tree[i] - mid;
                 }
             }
+            System.out.println(right + " " + mid);
             if(sum < m) right = mid;
             else left = mid + 1;
         }
