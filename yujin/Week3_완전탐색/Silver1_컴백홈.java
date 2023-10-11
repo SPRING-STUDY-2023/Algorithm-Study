@@ -1,10 +1,8 @@
-package Week3;
+package Week3_완전탐색;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class Silver1_컴백홈 {

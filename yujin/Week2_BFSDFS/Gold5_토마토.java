@@ -1,4 +1,4 @@
-package Week2;
+package Week2_BFSDFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Week4;
+package Week4_이진탐색;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -23,7 +23,7 @@ public class Silver2_나무자르기 {
         Arrays.sort(tree);
 
         long left = tree[0];
-        long right = tree[n - 1] + 1;
+        long right = tree[n - 1];
 
         while(left < right) {
             long mid = (left + right) / 2;

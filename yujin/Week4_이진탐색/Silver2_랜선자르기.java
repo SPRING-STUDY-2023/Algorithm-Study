@@ -1,4 +1,4 @@
-package Week4;
+package Week4_이진탐색;
 
 import java.io.BufferedReader;
 import java.io.IOException;
