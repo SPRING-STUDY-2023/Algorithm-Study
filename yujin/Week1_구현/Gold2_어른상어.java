@@ -1,4 +1,4 @@
-package Week1;
+package Week1_구현;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
