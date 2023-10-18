@@ -4,7 +4,7 @@ public class Fibonacci{
     static int[] topDown_memo;
     static int[] bottomup_table;
     public static void main(String[] args){
-        int n = 40;
+        int n = 50;
         topDown_memo = new int[n+1];
         bottomup_table = new int[n+1];
 
