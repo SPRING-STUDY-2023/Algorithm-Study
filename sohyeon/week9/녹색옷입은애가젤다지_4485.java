@@ -1,9 +1,13 @@
-import java.util.*;
-import java.io.*;
+package week9;
 
-import org.w3c.dom.Node;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.PriorityQueue;
+import java.util.Queue;
+import java.util.StringTokenizer;
 
-public class Main {
+public class 녹색옷입은애가젤다지_4485 {
 	static class Position implements Comparable<Position> {
 		int r;
 		int c;
