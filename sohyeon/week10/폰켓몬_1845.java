@@ -1,6 +1,9 @@
-import java.util.*;
+package week10;
 
-public class Solution {
+import java.util.HashMap;
+import java.util.Map;
+
+public class 폰켓몬_1845 {
 	public int solution(int[] nums) {
 		Map<Integer, Integer> map = new HashMap<>();
 
@@ -8,6 +11,6 @@ public class Solution {
 			map.put(num, map.getOrDefault(num, 0) + 1);
 		}
 
-		return map.size() >= (nums.length / 2) ? (nums.length / 2) : map.size();
+		return Math.min(map.size(), (nums.length / 2));
 	}
 }
