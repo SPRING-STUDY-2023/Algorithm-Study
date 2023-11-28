@@ -1,6 +1,10 @@
-import java.util.*;
+package week11;
 
-public class Solution {
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class k번째수_42748 {
 	public int[] solution(int[] array, int[][] commands) {
 		int[] answer = new int[commands.length];
 
