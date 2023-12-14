@@ -1,6 +1,6 @@
-import java.util.*;
+package week13;
 
-public class Solution {
+public class 이웃한칸_250125 {
 	public int solution(String[][] board, int h, int w) {
 		int answer = 0;
 		int n = board.length;
