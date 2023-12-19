@@ -1,6 +1,5 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.security.Principal;
 import java.util.Stack;
 
 class HomeworkInfo {
